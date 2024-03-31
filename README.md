@@ -1,4 +1,4 @@
-<h2><strong> Start Run BreadcrumbsAutomate The Boringthing With Django (dj) project </strong></h2>
+<h2><strong> Start Run Automate The Boringthing With Django (dj) project </strong></h2>
 
 <hr>
 <br><br>
