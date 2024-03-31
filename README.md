@@ -100,7 +100,7 @@
     and open setting.py scrol down until you see <br> 
     <strong> EMAIL_HOST_USER = ''   and   MAIL_HOST_PASSWORD = '' </strong> <br>
     then you need to enter your gamil address and your app password <br>
-    the instruction of how could get app password is in Ecommercestore folder and it is a pdf file name <br>
+    the instruction of how could get app password is in awd_main folder and it is a pdf file name <br>
     <strong> Setting up 2FA and creating an app password.pdf </strong> <br>
     after set this part you can do any thing in this site.<br> <br> <hr>
     Thank you for your attention.
