@@ -2,7 +2,11 @@ import csv
 
 from django.core.management.base import BaseCommand, CommandError
 
+from dataentry.utils import check_csv_errors
 from django.apps import apps
+from django.db import DataError
+
+
 # from dataentry.models import Student
 # kaggle site for the Dataset
 
@@ -27,25 +31,7 @@ class Command(BaseCommand):
 
         model_name = kwargs['model_name'].capitalize()
 
-        # Search for the model across all installed apps
-        model = None
-        for app_config in apps.get_app_configs():
-
-            # Try to search for the model
-
-            try:
-
-                model = apps.get_model(app_config.label, model_name)
-
-                break # stop searching once the model found
-
-            except LookupError:
-
-                continue # model not found in this app continue searching the other model
-
-        if not model:
-
-            raise CommandError(f'Model {model_name} not found in any apps!')
+        model = check_csv_errors(file_path, model_name)
 
         with open(file_path, 'r') as file:
 

@@ -1,1 +1,16 @@
 pip install django==5.0.3
+pip install celery==5.3.6
+pip install  redis-5.0.3
+pip install django-crispy-forms==2.1
+pip install crispy-bootstrap5==2024.2
+pip install django-ckeditor==6.7.1
+pip install django-anymail==10.3
+pip install beautifulsoup4==4.12.3
+pip install pillow==10.2
+pip install requests==2.31.0
+pip install dal-admin-filters==1.1.0
+pip install django-autocomplete-light==3.11.0
+
+
+# this library is for keep your secret code and other configuration such as gmail be hide for sendding to github
+pip install python-decouple==3.8
