@@ -72,19 +72,19 @@
 
 <br>
 
-<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic1.png" alt="awd_main project" style="max-width: 100%;">
+<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic1.png" alt="awd_main project" style="max-width: 100%; max-height: 50%;">
 
 <br>
 
-<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic2.png" alt="awd_main project" style="max-width: 100%;">
+<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic2.png" alt="awd_main project" style="max-width: 100%; max-height: 50%;">
 
 <br>
 
-<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic3.png" alt="awd_main project" style="max-width: 100%;">
+<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic3.png" alt="awd_main project" style="max-width: 100%; max-height: 50%;">
 
 <br>
 
-<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic4.png" alt="awd_main project" style="max-width: 100%;">
+<img src="https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-/blob/main/Project_preview_picture/pic4.png" alt="awd_main project" style="max-width: 100%; max-height: 50%;">
 
 <br>
 
