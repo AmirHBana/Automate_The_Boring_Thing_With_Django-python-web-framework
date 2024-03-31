@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3><strong> $> git clone https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-.git </strong></h3>
+<h3><strong> $> git clone https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework.git </strong></h3>
 
 <hr>
 
