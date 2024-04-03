@@ -6,11 +6,7 @@
 <p> At first you need go to the directory you want to clone this project </p>
 <br>
 
-<hr>
-
-<h3><strong> $> git clone https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-Fullstack.git </strong></h3>
-
-<hr>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Automate_The_Boring_Thing_With_Django-python-web-framework-Fullstack.git</pre></div>
 
 <br><br>
 
@@ -22,29 +18,22 @@
   after you activate your venv install python packages below in to your venv
 </p>
 
-<hr>
-
 <br>
 
-<h3> <strong> <hr>
-        $> pip install django==5.0.3 <br> <hr>
-        $> pip install celery==5.3.6 <br> <hr>
-        $> pip install  redis-5.0.3 <br> <hr>
-        $> pip install django-crispy-forms==2.1 <br> <hr>
-        $> pip install crispy-bootstrap5==2024.2 <br> <hr>
-        $> pip install django-ckeditor==6.7.1 <br> <hr>
-        $> pip install django-anymail==10.3 <br> <hr>
-        $> pip install beautifulsoup4==4.12.3 <br> <hr>
-        $> pip install pillow==10.2 <br> <hr>
-        $> pip install requests==2.31.0 <br> <hr>
-        $> pip install dal-admin-filters==1.1.0 <br> <hr>
-        $> pip install django-autocomplete-light==3.11.0 <br> <hr>
-        pip install python-decouple==3.8 <br> <hr>
-</strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django==5.0.3</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install celery==5.3.6</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install python-decouple==3.8</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-autocomplete-light==3.11.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install dal-admin-filters==1.1.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install requests==2.31.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install pillow==10.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install beautifulsoup4==4.12.3</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-anymail==10.3</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-ckeditor==6.7.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install crispy-bootstrap5==2024.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-crispy-forms==2.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install redis-5.0.3</pre></div>
 
-<br>
-
-<hr>
 
 <br>
 
@@ -56,7 +45,11 @@
 
 <hr>
 
-<h3> <strong>  $> python manage.py runserver </strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py makemigrations</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py migrate</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
 
