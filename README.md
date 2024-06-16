@@ -1,7 +1,17 @@
 <h2><strong> Start Run Automate The Boring thing With Django (dj) project </strong></h2>
 
 <hr>
-<br><br>
+<br>
+
+<h3> This project include this programming Tools</h3>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,pycharm,sqlite,js,css,bootstrap,html" />
+  </a>
+</p>
+
+<br>
 
 <p> At first you need go to the directory you want to clone this project </p>
 <br>
